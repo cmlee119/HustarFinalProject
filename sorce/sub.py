@@ -6,3 +6,6 @@ def c():
 
 def d():
     return "by"
+
+def b():
+    return "bbbbbbbbbb"
