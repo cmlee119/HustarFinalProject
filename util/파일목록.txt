@@ -1,0 +1,1 @@
+1	2020-09-06	SDCardFormatterv5_WinEN.zip	https://www.sdcard.org/downloads/formatter/eula_windows/index.html	micro sd카드에 데이터를 넣기 위한 유틸 설치파일
