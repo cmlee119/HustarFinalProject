@@ -1,0 +1,6 @@
+1	putty다운로드	https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+2	jetson nano와 접속할 컴퓨터를 같은 네트워크에 연결
+3	jetson nano의 ip address 파악 ( jetson nano의 콘솔창에서 ifconfig 명령어로 가능 )
+4	putty로 해당 아이피주소 접속
+5	아이디 hustar 비밀번호 12341234
+6	접속완료
