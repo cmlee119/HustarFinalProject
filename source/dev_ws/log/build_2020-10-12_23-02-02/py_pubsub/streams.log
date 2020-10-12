@@ -1,0 +1,37 @@
+[0.288s] Invoking command in '/home/cmlee119/dev_ws/src/py_pubsub': PYTHONPATH=/home/cmlee119/dev_ws/install/py_pubsub/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/cmlee119/dev_ws/build/py_pubsub/build install --prefix /home/cmlee119/dev_ws/install/py_pubsub --record /home/cmlee119/dev_ws/build/py_pubsub/install.log --single-version-externally-managed
+[0.540s] running egg_info
+[0.540s] creating ../../build/py_pubsub/py_pubsub.egg-info
+[0.540s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.541s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.541s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.541s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.541s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.542s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.571s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.572s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.572s] running build
+[0.572s] running build_py
+[0.572s] creating /home/cmlee119/dev_ws/build/py_pubsub/build
+[0.572s] creating /home/cmlee119/dev_ws/build/py_pubsub/build/lib
+[0.573s] creating /home/cmlee119/dev_ws/build/py_pubsub/build/lib/py_pubsub
+[0.573s] copying py_pubsub/__init__.py -> /home/cmlee119/dev_ws/build/py_pubsub/build/lib/py_pubsub
+[0.573s] copying py_pubsub/publisher_member_function.py -> /home/cmlee119/dev_ws/build/py_pubsub/build/lib/py_pubsub
+[0.573s] running install
+[0.573s] running install_lib
+[0.574s] creating /home/cmlee119/dev_ws/install/py_pubsub/lib/python3.6/site-packages/py_pubsub
+[0.574s] copying /home/cmlee119/dev_ws/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/cmlee119/dev_ws/install/py_pubsub/lib/python3.6/site-packages/py_pubsub
+[0.574s] copying /home/cmlee119/dev_ws/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/cmlee119/dev_ws/install/py_pubsub/lib/python3.6/site-packages/py_pubsub
+[0.574s] byte-compiling /home/cmlee119/dev_ws/install/py_pubsub/lib/python3.6/site-packages/py_pubsub/__init__.py to __init__.cpython-36.pyc
+[0.574s] byte-compiling /home/cmlee119/dev_ws/install/py_pubsub/lib/python3.6/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-36.pyc
+[0.575s] running install_data
+[0.575s] creating /home/cmlee119/dev_ws/install/py_pubsub/share/ament_index
+[0.575s] creating /home/cmlee119/dev_ws/install/py_pubsub/share/ament_index/resource_index
+[0.575s] creating /home/cmlee119/dev_ws/install/py_pubsub/share/ament_index/resource_index/packages
+[0.576s] copying resource/py_pubsub -> /home/cmlee119/dev_ws/install/py_pubsub/share/ament_index/resource_index/packages
+[0.576s] copying package.xml -> /home/cmlee119/dev_ws/install/py_pubsub/share/py_pubsub
+[0.576s] running install_egg_info
+[0.577s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/cmlee119/dev_ws/install/py_pubsub/lib/python3.6/site-packages/py_pubsub-0.0.0-py3.6.egg-info
+[0.578s] running install_scripts
+[0.595s] Installing talker script to /home/cmlee119/dev_ws/install/py_pubsub/lib/py_pubsub
+[0.595s] writing list of installed files to '/home/cmlee119/dev_ws/build/py_pubsub/install.log'
+[0.616s] Invoked command in '/home/cmlee119/dev_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/cmlee119/dev_ws/install/py_pubsub/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/cmlee119/dev_ws/build/py_pubsub/build install --prefix /home/cmlee119/dev_ws/install/py_pubsub --record /home/cmlee119/dev_ws/build/py_pubsub/install.log --single-version-externally-managed
